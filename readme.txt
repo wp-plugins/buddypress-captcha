@@ -4,7 +4,7 @@ Author URI: http://www.hardeepasrani.com
 Tags: spam, google, captcha, buddypress, anti-spam, recaptcha, registration, user, form, security
 Requires at least: 3.2
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,3 +29,8 @@ I'm a teen WordPresser, so I don't have a Paypal account, so just simply support
 == Screenshots ==
 1. reCAPTCHA Form On The Front-end
 2. Plugin Option Panel
+
+== Changelog ==
+
+= 1.1 =
+Fixed link.

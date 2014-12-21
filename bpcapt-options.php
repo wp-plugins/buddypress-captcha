@@ -23,7 +23,7 @@ function tpbpcapt_options_page() {
 	<h2>BuddyPress Captcha</h2>
 	<form method="post" action="options.php"> 
 		<?php settings_fields( 'tpbpcapt' ); ?>
-			<p>Click <a href="https://www.google.com/recaptcha/admin/create" target="_blank">here</a> to get reCAPTCHA credentials.</p>
+			<p>Click <a href="https://www.google.com/recaptcha/admin/" target="_blank">here</a> to get reCAPTCHA credentials.</p>
 			<table class="form-table">
 				<tr valign="top">
 					<th scope="row"><label for="bpcapt_public">reCAPTCHA Public Key:</label></th>
